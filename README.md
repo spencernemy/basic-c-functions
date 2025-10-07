@@ -8,5 +8,7 @@ A simple C program that demonstrates fundamental programming concepts:
 
 ## How to Run
 Compile with:
+
 gcc main.c -o main
+
 ./main
